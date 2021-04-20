@@ -1,1 +1,1 @@
-# programmation-lin-aire
+# Simplexe_Gauss
